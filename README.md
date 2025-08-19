@@ -1,6 +1,6 @@
 ![logo](https://github.com/codewithkryptora/CodeWithKryptora/blob/main/971.jpg)
 <h1 align="center">Hi 👋, I'm Vinay Parashar</h1>
-<h3 align="center">A am passionate Data Analyst | Proficient in Excel, SQL, Python & Power BI & Power BIfrontend from India</h3>
+<h3 align="center">I A am passionate Data Analyst | Proficient in Excel, SQL, Python & Power BI</h3>
 <img align="right" alt="Kryptora" width="400" src="https://github.com/codewithkryptora/CodeWithKryptora/blob/main/Picture3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay-0009&label=Profile%20views&color=0e75b6&style=flat" alt="vinay-0009" /> </p>
 
