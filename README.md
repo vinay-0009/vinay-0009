@@ -1,4 +1,4 @@
-![logo](https://github.com/codewithkryptora/CodeWithKryptora/blob/main/971.jpg)
+![logo](https://github.com/vinay-0009/profilewithvinay/blob/master/ai.gif.png)
 <h1 align="center">Hi 👋, I'm Vinay Parashar</h1>
 <h3 align="center">I A am passionate Data Analyst | Proficient in Excel, SQL, Python & Power BI</h3>
 <img align="right" alt="Kryptora" width="400" src="https://github.com/codewithkryptora/CodeWithKryptora/blob/main/Picture3.gif">
