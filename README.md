@@ -1,7 +1,7 @@
 ![logo](https://github.com/vinay-0009/profilewithvinay/blob/master/ai.gif.png)
 <h1 align="center">Hi 👋, I'm Vinay Parashar</h1>
 <h3 align="center">I am passionate Data Analyst | Proficient in Excel, SQL, Python & Power BI</h3>
-<img align="right" alt="Kryptora" width="400" src="https://github.com/codewithkryptora/CodeWithKryptora/blob/main/Picture3.gif">
+<img align="right" alt="Kryptora" width="400" src="https://github.com/vinay-0009/vinay-0009/blob/main/hj.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay-0009&label=Profile%20views&color=0e75b6&style=flat" alt="vinay-0009" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
